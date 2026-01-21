@@ -22,7 +22,7 @@ Este é um projeto em Python desenvolvido para analisar indicadores de desempenh
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/seu-usuario/hospital-eficiencia.git](https://github.com/seu-usuario/hospital-eficiencia.git)
+    git clone [https://github.com/VitorNorton/hospital-eficiencia.git](https://github.com/VitorNorton/hospital-eficiencia.git)
     cd hospital-eficiencia
     ```
 
